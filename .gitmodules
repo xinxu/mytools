@@ -1,0 +1,9 @@
+[submodule "XVim"]
+	path = XVim
+	url = git@github.com:JugglerShu/XVim.git
+[submodule "monokai.terminal"]
+	path = monokai.terminal
+	url = git://github.com/stephenway/monokai.terminal.git
+[submodule "xcode-themes"]
+	path = xcode-themes
+	url = https://github.com/hdoria/xcode-themes.git
